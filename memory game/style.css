@@ -1,0 +1,8 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 384px;
+    width: 512px;
+    border-style: solid;
+    border-color: rgb(29, 5, 114);
+}
